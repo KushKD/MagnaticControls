@@ -23,5 +23,9 @@ public class MainActivityWear extends BaseUIActivity {
         Log.d("The addition is",Integer.toString(x));
         mTextView.setText(Integer.toString(x));
 
+        /**
+         * Kush kumar Dhawan Working with Git
+         */
+
     }
 }
